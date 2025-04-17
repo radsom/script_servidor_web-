@@ -1,4 +1,4 @@
-# script_servidor_web-
+# script_servidor_web-Apache
 Cria servidor web Apache 
 
 Para tornar o script executável:
